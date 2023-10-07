@@ -1,1 +1,2 @@
 # OIBSIP_TASK_3
+This my level-1 Task-3 assigned by Oasis Infobytes. Through this internship task I have gained the knowlege of how to use html,css and javascript in a most efficient way. This repository consist of a Temperature converter website. A Temperatue converter website gets the data or the temperatue from the user either celcius or fahrenheit and dispays the desired unit the tmperature the user wants.
